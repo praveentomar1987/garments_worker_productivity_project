@@ -91,3 +91,7 @@ To stop any docker container
 docker stop <container_id>
 ```
 
+Install setpy.py file
+```
+python setup.py install
+```
